@@ -1,0 +1,36 @@
+_repo: Celebrated-Women-Travellers-of-the-Nineteenth-Century_31479
+_version: 0.1.0
+alternative_title: Celebrated Women Travellers of the 19th Century
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Adams, W. H. Davenport (William Henry Davenport)
+    aliases:
+    - Adams, W.H.
+    - Adams, William Henry Davenport
+    birthdate: 1828
+    deathdate: 1891
+    gutenberg_agent_id: '34969'
+    url: http://www.gutenberg.org/2009/agents/34969
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women travelers -- Biography'
+- !lcc 'CT'
+tableOfContents: Countess Dora d'Istria -- The Princess of Belgiojoso -- Madame Hommaire
+  de Hell -- Madame Léonie d'Aunet -- Miss Frederika Bremer -- Mademoiselle ALexina
+  Tinné -- Madame Ida Pfeiffer -- Madame de Bourboulon -- Lady Hester Stanhope --
+  Lady Brassey -- Lady Morgan -- Mrs. Trollope -- Miss Harriet Martineau -- Miss Isabella
+  Bird -- Lady Florence Dixie -- Miss Gordon Cumming -- FLorence and Rosamond Hill
+  -- Lady Barker -- "Magyarland."
+title: Celebrated Women Travellers of the Nineteenth Century
+url: http://www.gutenberg.org/ebooks/31479
